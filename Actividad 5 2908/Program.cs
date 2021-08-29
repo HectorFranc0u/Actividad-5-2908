@@ -65,6 +65,7 @@ namespace semana5
             {
                 pr.WriteLine("{0}; {1}", nomprod, precprod);
                 pr.Close();
+
             }
         }
     }
