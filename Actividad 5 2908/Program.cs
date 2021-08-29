@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace Actividad_5_2908
+namespace semana5
 {
     class Program
     {
