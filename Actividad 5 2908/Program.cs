@@ -132,6 +132,8 @@ namespace Actividad_5_2908
             {
                 Console.WriteLine("NO SE ENCONTRO EL REGISTRO.");
             }
+
+
         }
     }
 }
